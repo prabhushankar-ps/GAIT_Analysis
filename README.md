@@ -70,7 +70,40 @@ These features are quantified and leveraged for human recognition.
 ---
 
 ## References
-This paper builds on prior research in gait analysis and silhouette extraction, as cited from [1, 2, 3, 4, 5, 6, 7, 9].
+ Z Liu and S. Sarkar, ”Improved gait recognition by gait dynamics
+normalization” IEEE Transactions on Pattern Analysis and Machine
+Intelligence, vol. 28, no. 6, pp. 863-876, June 2006.
+[2] S. Benbakreti and M. Benyettou, ”Gait recognition based on leg motion
+and contour of silhouette,” International Conference on Information
+Technology and e-Services, Sousse, 2012, pp. 1-5.
+[3] P. Nithyakani, A. Shanthini and G. Ponsam, ”Human Gait Recog-
+nition using Deep Convolutional Neural Network,” 3rd International
+Conference on Computing and Communications Technologies (ICCCT),
+Chennai, India, 2019, pp. 208-211.
+[4] H. Su, Zhi-Wu Liao and G. Chen, ”A gait recognition method using
+L1-PCA and LDA,” International Conference on Machine Learning and
+Cybernetics, Hebei, 2009, pp. 3198-3203.
+[5] K. Moustakas, D. Tzovaras and G. Stavropoulos, ”Gait Recognition
+Using Geometric Features and Soft Biometrics,” IEEE Signal Processing
+Letters, vol. 17, no. 4, pp. 367-370, April 2010.
+[6] M. S. Nixon and J. N. Carter, ”Advances in automatic gait recognition,”
+Sixth IEEE International Conference on Automatic Face and Gesture
+Recognition, 2004. Proceedings., Seoul, South Korea, 2004, pp. 139-
+144.
+[7] W. Kusakunniran, Q. Wu, H. Li and J. Zhang, ”Automatic Gait Recogni-
+tion Using Weighted Binary Pattern on Video,” Sixth IEEE International
+Conference on Advanced Video and Signal Based Surveillance, Genova,
+2009, pp. 49-54.
+[8] Z Liu and S. Sarkar, ”Effect of silhouette quality on hard problems in
+gait recognition,” IEEE Transactions on Systems, Man, and Cybernetics,
+Part B (Cybernetics), vol. 35, no. 2, pp. 170-183, April 2005
+[9] L. Wang, T. Tan, H. Ning and W. Hu, ”Silhouette analysis-based gait
+recognition for human identification,” IEEE Transactions on Pattern
+Analysis and Machine Intelligence, vol. 25, no. 12, pp. 1505-1518, Dec.
+2003
+[10] A. S. M. H. Bari and M. L. Gavrilova, ”Artificial Neural Network
+Based Gait Recognition Using Kinect Sensor,” IEEE Access, vol. 7,
+pp. 162708-162722, 2019.
 
 ---
 
